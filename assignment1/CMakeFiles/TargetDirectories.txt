@@ -1,0 +1,4 @@
+/mnt/c/Users/mintonmu/Desktop/exam/assignment1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/mintonmu/Desktop/exam/assignment1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/mintonmu/Desktop/exam/assignment1/CMakeFiles/client.dir
+/mnt/c/Users/mintonmu/Desktop/exam/assignment1/CMakeFiles/server.dir

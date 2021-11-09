@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11  -rdynamic CMakeFiles/client.dir/client.c.o  -o build/client 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c11  -rdynamic CMakeFiles/server.dir/server.c.o  -o build/server 
